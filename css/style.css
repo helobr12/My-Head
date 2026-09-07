@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: radial-gradient(circle at 50% 30%, #4d0000 0%, #1a0000 60%, #000000 100%);
+}
+
+#img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+#frase {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    max-width: 600px;
+}
+h1 {
+    color: orangered;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
